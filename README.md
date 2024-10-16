@@ -2,7 +2,6 @@
 
 Back-end:
 <div style="display: inline_block">
-<br> 
 <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 <img align="center" alt="Hibernate" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-plain.svg">
@@ -15,7 +14,6 @@ Back-end:
 
 Front-end:
 <div style="display: inline_block">
-<br>
 <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
 <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -25,7 +23,6 @@ Front-end:
 
 Servidores:
 <div style="display: inline_block">
-<br> 
 <img align="center" alt="Tomcat" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg">
 <img align="center" alt="WildFly" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wildfly/wildfly-original.svg">
 <img align="center" alt="JBoss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jboss/jboss-original.svg">
@@ -35,7 +32,6 @@ Servidores:
 
 Bancos de Dados:
 <div style="display: inline_block">
-<br> 
 <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 <img align="center" alt="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
 <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -46,7 +42,6 @@ Bancos de Dados:
 
 DevOps:
 <div style="display: inline_block">
-<br> 
 <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 <img align="center" alt="GitHub Actions" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg">
