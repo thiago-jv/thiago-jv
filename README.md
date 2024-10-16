@@ -1,6 +1,9 @@
-## Oiii eu sou o Thiago henrique, desenvolvedor de software! 
-## Essas são algumas tecnologias que estou atuando ou já atei!
+## Sobre Mim
 
+Sou analista desenvolvedor de software com mais de 7 anos de experiência em diversas linguagens de programação e frameworks. Minha trajetória inclui
+projetos de grande porte com alcance internacional, onde aprendi a importância da evolução contínua para atender às demandas do mercado. Dedico-me a 
+estudar novas tecnologias que possam agregar valor aos projetos em que estou envolvido.
+<br>
 
 Back-end:
 <div style="display: inline_block">
