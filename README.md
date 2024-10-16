@@ -1,4 +1,4 @@
-## Sobre Mim
+## Sobre o Thiago henrique,
 
 Sou analista desenvolvedor de software com mais de 7 anos de experiência em diversas linguagens de programação e frameworks. Minha trajetória inclui
 projetos de grande porte com alcance internacional, onde aprendi a importância da evolução contínua para atender às demandas do mercado. Dedico-me a 
