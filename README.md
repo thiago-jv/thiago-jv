@@ -1,7 +1,6 @@
 ## Oiii eu sou o Thiago henrique, desenvolvedor de software!
 
 Back-end:
-
 <div style="display: inline_block">
 <br> 
 <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -12,6 +11,7 @@ Back-end:
 <img align="center" alt="Lombok" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lombok/lombok-original.svg"> 
 <img align="center" alt="Quarkus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg"> 
 </div>
+<br> 
 
 Front-end:
 <div style="display: inline_block">
@@ -21,6 +21,7 @@ Front-end:
 <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
+<br>
 
 Servidores:
 <div style="display: inline_block">
@@ -30,6 +31,7 @@ Servidores:
 <img align="center" alt="JBoss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jboss/jboss-original.svg">
 <img align="center" alt="WebSphere" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/websphere/websphere-original.svg">
 </div>
+<br>
 
 Bancos de Dados:
 <div style="display: inline_block">
@@ -40,6 +42,7 @@ Bancos de Dados:
 <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 <img align="center" alt="SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
+<br>
 
 DevOps:
 <div style="display: inline_block">
@@ -54,6 +57,7 @@ DevOps:
 <img align="center" alt="Kafka" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kafka/kafka-original.svg">
 <img align="center" alt="RabbitMQ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg">
 </div>
+<br>
 
 ##
 
