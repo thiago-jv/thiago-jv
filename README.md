@@ -1,4 +1,6 @@
-## Oiii eu sou o Thiago henrique, desenvolvedor de software!
+## Oiii eu sou o Thiago henrique, desenvolvedor de software! 
+## Essas são algumas tecnologias que estou atuando ou já atei!
+
 
 Back-end:
 <div style="display: inline_block">
